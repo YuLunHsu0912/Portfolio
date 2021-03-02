@@ -10,11 +10,12 @@ This porfolio belongs to Yu-Lun Hsu. The repository includes:
 
  * 04 interdisciplinary_research
 
+The codes in these topics are mainly 
 
-## 01 machine_learning
+## 01 Machine_Learning
 
-## 02 virtual_effects
+## 02 Virtual_Effects
 
-## 03 system_programming
+## 03 System_Programming
 
-## 04 interdisciplinary_research
+## 04 Interdisciplinary_Research
