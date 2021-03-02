@@ -1,2 +1,2 @@
-# Yu-Lun Hsu's Portfolio for applying STEP intern(Student Training in Engineering Program )
+# Yu-Lun Hsu's Portfolio for STEP intern
 This porfolio belongs to Yu-Lun Hsu
