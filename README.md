@@ -1,2 +1,3 @@
 # Yu-Lun Hsu's Portfolio for STEP intern
-This porfolio belongs to Yu-Lun Hsu
+This porfolio belongs to Yu-Lun Hsu. The repository includes:
+01 
