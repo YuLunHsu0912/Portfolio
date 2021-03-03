@@ -15,4 +15,4 @@ registers and data memory.
 ![image](https://github.com/YuLunHsu0912/Portfolio/blob/main/05%20Computer_Architecture/Architecture%20Diagram.jpg)
 
 ## Reference
-https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+[RISC-V spec](https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf)
