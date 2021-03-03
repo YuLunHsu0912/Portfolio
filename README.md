@@ -16,6 +16,7 @@ The codes in these topics are mainly written in C and Python. Verilog, shell are
 
 
 ## 01 Machine_Learning
+Our paper was accepted by 2020ICMLA.
 
 ## 02 Virtual_Effects
 
