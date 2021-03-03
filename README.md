@@ -1,4 +1,4 @@
-# Yu-Lun Hsu's Portfolio for STEP intern
+# Yu-Lun Hsu's Portfolio
 ## Overview
 This porfolio belongs to Yu-Lun Hsu. The repository includes:
 
