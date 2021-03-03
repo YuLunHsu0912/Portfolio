@@ -11,3 +11,5 @@ registers and data memory.
 * B-type: beq 
 * J-type: jal 
 
+## Architecture Diagram
+![image](https://github.com/YuLunHsu0912/Portfolio/blob/main/05%20Computer_Architecture/Architecture%20Diagram.jpg)
