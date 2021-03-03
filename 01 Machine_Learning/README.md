@@ -8,4 +8,4 @@ This project was done with Tung and Wu. We use several deep learning-based metho
 
 Details are available in Automatic_mango_Grading/Result.pdf.
 
-## Homework for Machine Learning Technique
+
