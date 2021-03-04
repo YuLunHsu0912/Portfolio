@@ -3,6 +3,7 @@ In this part, three systems are implemented with the aid of pipe, fifo, signals,
 
 The work is coupled with the course System programming in NTU csie.
 ## Auction system
+We have  implemented an auction system which handles a number of auctions simultaneously.
 
 ## Mak pre-order system
 The csieMask system is composed of read and write servers, both can access a file preorderRecord that records infomation of consumer's order. When a server gets a request from clients, it will response according to the content of the file. A read server can tell the client how many masks can be ordered. A write server can modify the file to record the orders.
