@@ -21,7 +21,7 @@ My team attended one mango-grade-classification completion in AIDEA. We also pub
 ## 02 Virtual_Effects
 I have implemented two kinds of image processing: HDR and image stitching. Also, two classmates and I made a video with visual effects including image morphing, camera tracking, 3D model.
 ## 03 System_Programming
-There are three projects in this topic. Pipe, fifo, signals, multiplexing and more are implemented.
+There are three projects in this topic. Pipe, fifo, signals, multiplexing and more are implemented to fullfill the auction system, mask pre-order system and pseudothread system.
 ## 04 Interdisciplinary_Research
 I used the knowledge I learned in two departments to do some interdisciplinary research. One is image processing, and the other is deep learning for discovery of antibiotics. Some experiments are conducted by myself in the former research.
 ## 05 Computer_Architecture
