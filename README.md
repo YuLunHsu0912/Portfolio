@@ -11,7 +11,7 @@ This porfolio belongs to Yu-Lun Hsu. The repository includes:
  * 04 Interdisciplinary_Research
  * 05 Computer_Architecture
 
-The codes in these topics are mainly written in C and Python. Verilog, shell are also used for specific needs.
+The codes in these projects are mainly written in C and Python. Verilog, shell are also used for specific needs.
 
 
 
