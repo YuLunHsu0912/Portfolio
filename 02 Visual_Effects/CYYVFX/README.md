@@ -1,2 +1,4 @@
-Please press "video" below to see whole video.
+Please press "video" below to see the whole video.
+
+
 [Video](https://youtu.be/Z0OGRzMraO4)
